@@ -1,6 +1,4 @@
-Certainly! Below is a full GitHub README file for a text utilities application using ReactJS, JavaScript, and Bootstrap, along with deployment information.
 
-```markdown
 # Text Craft- [ Text Utilities Application ]
 
 Welcome to the Text Utilities Application! This project provides various text utility functions built with ReactJS and styled using Bootstrap.
